@@ -22,7 +22,6 @@
  *
  */
 #include "ws_serial.h"
-
 ws_serial::ws_serial(){
 }
 

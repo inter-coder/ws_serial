@@ -23,7 +23,6 @@
  */
 #ifndef ws_serial_h
 #define ws_serial_h
-
 #include <Ticker.h>
 #include <ESP8266WiFi.h>
 #include <WebSocketsServer.h>

@@ -4,7 +4,6 @@ ws_serial ws;
 const char *ssid = "ESPap";
 const char *password = "thereisnospoon";
 int x=0;
-
 void setup() {
   Serial.begin(9600);
   delay(1000);
